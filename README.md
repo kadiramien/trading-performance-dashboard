@@ -1,2 +1,2 @@
 # trading-performance-dashboard
-Full-stack performance analytics dashboard built with Python (Flask) and SQL. Tracks financial data, stores records in a database, and provides real-time performance insights and visualisation.
+Python-based trading P&L and performance analytics dashboard. Tracks trade-level returns, calculates cumulative performance, and analyses risk metrics such as drawdowns and volatility. Designed to understand performance drivers and improve decision-making.
